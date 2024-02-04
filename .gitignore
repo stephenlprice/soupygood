@@ -135,4 +135,5 @@ dmypy.json
 log.txt
 
 # temporary output folder
-output/*
+out/*
+
